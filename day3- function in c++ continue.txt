@@ -1,0 +1,8 @@
+General steps to steup the github
+1. --versions
+2 cd > desktop
+3 desktop > git clone <link>
+4.Name Directory
+5 install migw and visual studio
+6. install code runner and  set path i visual studio
+7. run and compile code
